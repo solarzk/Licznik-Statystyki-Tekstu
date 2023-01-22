@@ -1,0 +1,3 @@
+C:/Users/Kinga/OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie/Pulpit/jpo/projekt/CMakeProject_KInga_Solarz/CMakeProject_KInga_Solarz/out/build/x64-Debug/CMakeFiles/CMakeProject_KInga_Solarz.dir
+C:/Users/Kinga/OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie/Pulpit/jpo/projekt/CMakeProject_KInga_Solarz/CMakeProject_KInga_Solarz/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Kinga/OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie/Pulpit/jpo/projekt/CMakeProject_KInga_Solarz/CMakeProject_KInga_Solarz/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
